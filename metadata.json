@@ -1,0 +1,5 @@
+{
+  "name": "Pet é top",
+  "description": "Plataforma educativa para conscientização sobre bem-estar animal, combate aos maus-tratos e histórias reais ilustradas.",
+  "requestFramePermissions": ["microphone"]
+}
